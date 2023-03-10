@@ -8,6 +8,6 @@
 origami_cranes = int(input("input integer number of origami cranes: "))
 
 x = int(origami_cranes / 6)
-print(f"Petya make: {x} origami cranes")
-print(f"Katya make: {4 * x} origami cranes")
-print(f"Serega make: {x} origami cranes")
+print(f"Petya make: {x} an origami cranes")
+print(f"Katya make: {4 * x} an origami cranes")
+print(f"Serega make: {x} an origami cranes")
