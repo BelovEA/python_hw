@@ -1,0 +1,4 @@
+id, last_name, first_name, second_name, phone
+1, Ivanov, Ivan, Ivanovich, 712312312
+[1, Ivanov, Ivan, Ivanovich, 712312312]
+[2, Petrov, Petr, Petrovic, 712313112]
